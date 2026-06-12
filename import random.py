@@ -20,4 +20,4 @@ while True:
 
     else:
         
-        print("Parabéns! Você acertou o número secreto {numero_secreto} em {tentativas} tentativas.")
+        print(f"Parabéns! Você acertou o número secreto {numero_secreto} em {tentativas} tentativas.")

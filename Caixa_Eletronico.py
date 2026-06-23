@@ -1,6 +1,6 @@
 saldo = 1000.00
 
-while True:  # Corrigido: True precisa ter a primeira letra maiúscula
+while True:  
 
     print("\nCaixa Eletrônico")
     print("1 - Verificar Saldo")
